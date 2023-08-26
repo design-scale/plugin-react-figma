@@ -1,0 +1,44 @@
+body {
+  font: 12px sans-serif;
+  text-align: center;
+  margin: 20px;
+  background-color: #F7F7F7;
+}
+
+.fullwidth {
+  width: 100%;
+  justify-content: center;
+}
+
+.main {
+  position: relative;
+  height: 100vh;
+}
+
+.container { 
+  padding: 24px;
+}
+
+
+.container-pages {
+  align-items: center;
+  display: flex;
+  width: 100%;
+  padding: 8px 8px;
+  border-top: 1px solid #DEDEDE;
+  position: absolute;
+  bottom: 0;
+
+  justify-content: space-between;
+}/* 
+
+
+.selected {
+  background-color: gray;
+}
+
+.text-selected label { 
+  color: white!important;
+}
+
+*/
